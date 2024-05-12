@@ -13,7 +13,7 @@ PHP packages that make async and event loop style programming in PHP possible. C
 ## Installation
 
 - Requires PHP 7.4+
-- Use Composer to install: `composer require slack-php/slack-socket-mode`
+- Use Composer to install: `composer require critch/slack-socket-mode`
 
 ## Usage
 
@@ -77,7 +77,7 @@ if (getenv('SOCKET_MODE')) {
 $server->withApp($app)->start();
 ```
 
-[1]: https://github.com/slack-php/slack-php-app-framework
+[1]: https://github.com/critch/slack-php-app-framework
 [2]: https://api.slack.com/apis/connections/socket
 [3]: https://amphp.org/websocket-client/
 [4]: https://amphp.org/
