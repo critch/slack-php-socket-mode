@@ -1,5 +1,5 @@
 {
-    "name": "slack-php/slack-socket-mode",
+    "name": "critch/slack-socket-mode",
     "type": "library",
     "license": "MIT",
     "description": "Provides a a slack-php Socket Mode implementation",
@@ -17,7 +17,7 @@
     },
     "require": {
         "amphp/websocket-client": "^1.0",
-        "slack-php/slack-app-framework": ">=0.5.0"
+        "critch/slack-app-framework": ">=0.5.0"
     },
     "autoload": {
         "psr-4": {
