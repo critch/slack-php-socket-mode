@@ -1983,16 +1983,16 @@
             "time": "2021-05-03T11:20:27+00:00"
         },
         {
-            "name": "slack-php/slack-app-framework",
+            "name": "critch/slack-app-framework",
             "version": "0.5.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/slack-php/slack-php-app-framework.git",
+                "url": "https://github.com/critch/slack-php-app-framework.git",
                 "reference": "79837c936a73aac1d3ca95752442a9a63e1ea159"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/slack-php/slack-php-app-framework/zipball/79837c936a73aac1d3ca95752442a9a63e1ea159",
+                "url": "https://api.github.com/repos/critch/slack-php-app-framework/zipball/79837c936a73aac1d3ca95752442a9a63e1ea159",
                 "reference": "79837c936a73aac1d3ca95752442a9a63e1ea159",
                 "shasum": ""
             },
@@ -2033,8 +2033,8 @@
             ],
             "description": "Provides a foundation upon which to build a Slack application in PHP",
             "support": {
-                "issues": "https://github.com/slack-php/slack-php-app-framework/issues",
-                "source": "https://github.com/slack-php/slack-php-app-framework/tree/0.5.0"
+                "issues": "https://github.com/critch/slack-php-app-framework/issues",
+                "source": "https://github.com/critch/slack-php-app-framework/tree/0.5.0"
             },
             "time": "2021-07-09T18:13:47+00:00"
         },
